@@ -1,0 +1,11 @@
+.players-container{
+    display: flex;
+}
+.player-container{
+    width: 65%;
+    border-right: 1px solid lightgray;
+}
+.purchased-player{
+    width: 30%;
+}
+

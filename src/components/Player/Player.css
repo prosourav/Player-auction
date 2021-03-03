@@ -1,0 +1,12 @@
+.player{
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+.player button{
+    font-size: 25px;
+    color: rgb(63, 45, 17);
+    background-color: gold;
+    height: 35px;
+    width: 90px;
+}

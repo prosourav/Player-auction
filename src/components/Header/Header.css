@@ -1,0 +1,9 @@
+.main-header{
+    background-color: darkgrey;
+    color: white;
+    text-align: center;
+    height: 75px;
+}
+.main-header h1{
+    padding-top: 12px;
+}
